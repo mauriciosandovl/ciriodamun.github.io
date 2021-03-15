@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my personal webpage
 
-You can use the [editor on GitHub](https://github.com/mauriciosandovl/ciriodamun.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a mathematician looking to use data as a way to solve biological, economical and social problems. Currently I'm a data scientist at Stori Card a fintech looking to empowers consumers with access to digital financial services in Latin America.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm also a scholarship holder at Cellular Physiology Intitute and adjoint teacher at Science Faculty at UNAM.
 
-### Markdown
+In the future I would like to be involved in political and economical reaserch through data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+Mathematic bachelor degree at Science Faculty, UNAM
 
-```markdown
-Syntax highlighted code block
+### Software
+* Programming languajes: Python, R, Matlab/Octave, Mathematica, Bash, SQL, C++
+* DS libraries: Scikit Learn, Pytorch, Pandas, Numpy.
+* Cloud Computing: AWS (EC2, S3, Redshift, EMR, SageMaker) 
+* Other: UNIX/LINUX systems, Git/GitHub, LaTeX.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mauriciosandovl/ciriodamun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Stuff
+* My personal GitHub https://github.com/mauriciosandovl/
+* Computational structural biology laboratory http://www.ifc.unam.mx/investigadores/marcelino-arciniega
+* Social Development Asociation where I volunteer http://adeco.org.mx/
